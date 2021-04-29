@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'hcc_2101.apps.Hcc2101Config',
+    'hcc_site.apps.HccSiteConfig',
 ]
 
 MIDDLEWARE = [
